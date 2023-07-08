@@ -1,0 +1,85 @@
+html{
+    background-color:aquamarine;
+}
+ #first{
+    text-align: center;
+    margin-top: 10px;
+}
+#video {
+border: 05px solid aquamarine;
+align-content: center;
+margin-top: -200px;
+
+}
+
+
+
+
+#second { 
+border:1px solid whitesmoke;
+border-width: 1px;
+height: 200px;
+width: 400px;
+margin-left: 50px;
+font-size: large;
+font-family: cursive;
+font-weight: 200;
+background-color: gold;
+text-align: center;
+}
+
+#third {
+text-align: center;
+}
+
+#fourth {
+border:1px solid whitesmoke;
+border-width: 1px;
+height: 200px;
+width: 300px;
+margin-left: 830px;
+font-size: large;
+font-family: cursive;
+font-weight: 200;
+text-align: center;
+margin-top: -230px;
+background-color: gold;
+}
+img{
+height: 100px;
+width: 100px;
+text-align: left;
+}
+
+#fifth {
+height: 600px;
+width: 350px;
+margin-top: 90px;
+margin-left: 50px;
+}
+#six {
+margin-left: 450px;
+height: 50px;
+width: 200px;
+margin-top: -700px;
+}
+
+#seven {
+margin-left: 750px;
+height: 100px;
+width: 400px;
+margin-top: -50px;
+}
+#eight {
+margin-left: 450px;
+height: 300px;
+width: 250px;
+margin-top: 150px;
+}
+
+#nine {
+margin-left: 750px;
+height: 100px;
+width: 400px;
+margin-top: -300px;
+}
